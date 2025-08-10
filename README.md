@@ -1,4 +1,4 @@
-# import React, { useState, useEffect } from 'react';
+#import React, { useState, useEffect } from 'react';
 import { Aperture, Clipboard, Check, Sparkles, LoaderCircle, Palette, Wand2, Image as ImageIcon, MessageSquareQuote, Layers, Lightbulb, Volume2, Send, Type, Building2, Utensils, Cpu, Mountain, Store, BrainCircuit, Paintbrush } from 'lucide-react';
 
 // Main App Component
